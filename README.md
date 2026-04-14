@@ -88,8 +88,6 @@ GROQ_API_KEY=...
 OPENROUTER_API_KEY=...
 ```
 
-> **Never commit `.env` to version control.** It is listed in `.gitignore`.
-
 ---
 
 ## Usage
