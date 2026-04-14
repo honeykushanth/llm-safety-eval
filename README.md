@@ -56,7 +56,7 @@ Final decision: hard-condition gates → weighted combination (25% heuristic / 3
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/llm-safety-eval.git
+git clone https://github.com/honeykushanth/llm-safety-eval.git
 cd llm-safety-eval
 ```
 
